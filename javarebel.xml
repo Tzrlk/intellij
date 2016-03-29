@@ -1,0 +1,7 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="embedded" value="false" />
+    <option name="javaRebelPath" value="C:\Users\pcummuskey\.IntelliJIdea14\config\plugins\jr-ide-idea\lib\jrebel\jrebel.jar" />
+    <option name="settingsStartupRadioSelection" value="2" />
+  </component>
+</application>

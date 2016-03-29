@@ -1,0 +1,111 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="553466f19c6f9de55f1ffcbc" name="animus" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="553465bfcd8a62c5fb7ed825" name="petercummuskey" />
+      </option>
+      <password>df9adf98dfcedf98df9bdf93dfcbdfccdfc8df98dfccdf9bdf9bdfcfdfccdfcbdf92df92df9bdf9fdfcfdf9fdf9adf9edf9bdf9fdfc8dfccdf98df9fdf98df9edf9adf9bdf9cdf9fdf9bdfc9df9fdfc9df9bdfc9df9bdf9cdf9fdfcfdfcedfccdfc8df9adf9fdfc9df93dfcbdf9adfcedfcfdf9fdfcfdfccdf9edf9bdf99df9d</password>
+      <option name="includeAllCards" value="false" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.bravurasolutions.com/svn/artefacts" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.bravurasolutions.com/svn/artefacts" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://svn.bravurasolutions.com/svn/artefacts/Sonata/trunk">
+          <value>
+            <set>
+              <option value="C:\code\bravura\sonata-svn" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IntelliJIdea13/system/extResources/5a3ee903_log4j.dtd" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
