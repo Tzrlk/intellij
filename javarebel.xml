@@ -1,6 +1,11 @@
 <application>
   <component name="JavaRebelPlugin">
     <option name="embedded" value="false" />
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8088\/&quot;}]}" />
+      </map>
+    </option>
     <option name="javaRebelPath" value="C:\Users\pcummuskey\.IntelliJIdea14\config\plugins\jr-ide-idea\lib\jrebel\jrebel.jar" />
     <option name="settingsStartupRadioSelection" value="2" />
   </component>
