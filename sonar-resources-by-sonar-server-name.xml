@@ -1,0 +1,857 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="akvcbuqube1">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1455578278000" />
+                <option name="date" value="1460309886000" />
+                <option name="description" value="Sonata low level and common types." />
+                <option name="id" value="308794" />
+                <option name="key" value="bravura.sonata:sonarqube.sonata-common" />
+                <option name="longName" value="Sonata Commons" />
+                <option name="name" value="Sonata Commons" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454385465000" />
+                <option name="date" value="1460299280000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="210402" />
+                <option name="key" value="bravura.sonata:sonarqube.core" />
+                <option name="longName" value="Sonata Core" />
+                <option name="name" value="Sonata Core" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455614865000" />
+                <option name="date" value="1460316795000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="313371" />
+                <option name="key" value="bravura.sonata:sonarqube.core.bonn-5.3.9:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Core bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Core bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454030168000" />
+                <option name="date" value="1460299535000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="155211" />
+                <option name="key" value="bravura.sonata:sonarqube.dao" />
+                <option name="longName" value="Sonata Dao" />
+                <option name="name" value="Sonata Dao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454416458000" />
+                <option name="date" value="1460305869000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="211679" />
+                <option name="key" value="bravura.sonata:sonarqube.dao:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Dao bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Dao bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454037560000" />
+                <option name="date" value="1460308058000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="195316" />
+                <option name="key" value="bravura.sonata:sonarqube.datamodel" />
+                <option name="longName" value="Sonata Datamodel" />
+                <option name="name" value="Sonata Datamodel" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454417054000" />
+                <option name="date" value="1460312240000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="241241" />
+                <option name="key" value="bravura.sonata:sonarqube.datamodel:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Datamodel bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Datamodel bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455578383000" />
+                <option name="date" value="1460309918000" />
+                <option name="description" value="Sonata service API for internal usage only." />
+                <option name="id" value="308834" />
+                <option name="key" value="bravura.sonata:sonarqube.sonata-internal-api" />
+                <option name="longName" value="Sonata Internal API" />
+                <option name="name" value="Sonata Internal API" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454036556000" />
+                <option name="date" value="1460308742000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="184971" />
+                <option name="key" value="bravura.sonata:sonarqube.pbx" />
+                <option name="longName" value="Sonata PBX" />
+                <option name="name" value="Sonata PBX" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454423628000" />
+                <option name="date" value="1460312669000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="244658" />
+                <option name="key" value="bravura.sonata:sonarqube.pbx:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata PBX bonn-5.3.9-dev" />
+                <option name="name" value="Sonata PBX bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455614953000" />
+                <option name="date" value="1460316962000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="314641" />
+                <option name="key" value="bravura.sonata:sonarqube.portables:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Portables bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Portables bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454038351000" />
+                <option name="date" value="1460314509000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="198746" />
+                <option name="key" value="bravura.sonata:sonarqube.rda" />
+                <option name="longName" value="Sonata RDA" />
+                <option name="name" value="Sonata RDA" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455578419000" />
+                <option name="date" value="1460310016000" />
+                <option name="description" value="Sonata service API for external consumption." />
+                <option name="id" value="309767" />
+                <option name="key" value="bravura.sonata:sonarqube.sonata-service-api" />
+                <option name="longName" value="Sonata Service API" />
+                <option name="name" value="Sonata Service API" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455578444000" />
+                <option name="date" value="1460310049000" />
+                <option name="description" value="A client for the JAX-RS SBS catalogue using CXF." />
+                <option name="id" value="309832" />
+                <option name="key" value="bravura.sonata:sonarqube.sonata-service-client-jaxrs" />
+                <option name="longName" value="Sonata Service Client - JAX RS" />
+                <option name="name" value="Sonata Service Client - JAX RS" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455548396000" />
+                <option name="date" value="1460316161000" />
+                <option name="description" value="A client for various sonata services." />
+                <option name="id" value="258220" />
+                <option name="key" value="bravura.sonata:sonata-services-client" />
+                <option name="longName" value="Sonata Services: Client" />
+                <option name="name" value="Sonata Services: Client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455647436000" />
+                <option name="date" value="1460316161000" />
+                <option name="description" value="A client-specific client for SOA services." />
+                <option name="id" value="314762" />
+                <option name="key" value="bravura.sonata:sonata-services-client-soa" />
+                <option name="longName" value="Sonata Services: Legacy SOA Client" />
+                <option name="name" value="Sonata Services: Legacy SOA Client" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454423995000" />
+                <option name="date" value="1460316746000" />
+                <option name="description" value="A client for various sonata services." />
+                <option name="id" value="254970" />
+                <option name="key" value="bravura.sonata:sonata-services-client:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Services: Client bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Services: Client bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454424078000" />
+                <option name="date" value="1460316746000" />
+                <option name="description" value="A client for the JAX-RS SBS catalogue using CXF." />
+                <option name="id" value="256756" />
+                <option name="key" value="bravura.sonata:sonata-services-client-jaxrs:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Services: JAX-RS Client bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Services: JAX-RS Client bonn-5.3.9-dev" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454424078000" />
+                <option name="date" value="1460316746000" />
+                <option name="description" value="A client-specific client for SOA services." />
+                <option name="id" value="256778" />
+                <option name="key" value="bravura.sonata:sonata-services-client-soa:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Services: Legacy SOA Client bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Services: Legacy SOA Client bonn-5.3.9-dev" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455596923000" />
+                <option name="date" value="1455596438000" />
+                <option name="id" value="311796" />
+                <option name="key" value="bravura.sonata:sonata-web" />
+                <option name="longName" value="Sonata Web" />
+                <option name="name" value="Sonata Web" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454038680000" />
+                <option name="date" value="1460315859000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="204611" />
+                <option name="key" value="bravura.sonata:sonarqube.webservices" />
+                <option name="longName" value="Sonata Web Services" />
+                <option name="name" value="Sonata Web Services" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454423938000" />
+                <option name="date" value="1460316508000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="254969" />
+                <option name="key" value="bravura.sonata:sonarqube.webservices:bonn-5.3.9-dev" />
+                <option name="longName" value="Sonata Web Services bonn-5.3.9-dev" />
+                <option name="name" value="Sonata Web Services bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590711000" />
+                <option name="date" value="1460294942000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="309854" />
+                <option name="key" value="bravura.sonata:sonarqube.web-admin" />
+                <option name="longName" value="Sonata Web: Administration" />
+                <option name="name" value="Sonata Web: Administration" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590745000" />
+                <option name="date" value="1460294996000" />
+                <option name="description" value="Common components for creating AngularJS web applications." />
+                <option name="id" value="309921" />
+                <option name="key" value="bravura.sonata:sonata-web-angular" />
+                <option name="longName" value="Sonata Web: Angular" />
+                <option name="name" value="Sonata Web: Angular" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590775000" />
+                <option name="date" value="1460295022000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="309937" />
+                <option name="key" value="bravura.sonata:sonarqube.web-ayr" />
+                <option name="longName" value="Sonata Web: Ayr" />
+                <option name="name" value="Sonata Web: Ayr" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590808000" />
+                <option name="date" value="1460295048000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="309972" />
+                <option name="key" value="bravura.sonata:sonarqube.web-beechworth" />
+                <option name="longName" value="Sonata Web: Beechworth" />
+                <option name="name" value="Sonata Web: Beechworth" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590849000" />
+                <option name="date" value="1460295080000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="310033" />
+                <option name="key" value="bravura.sonata:sonarqube.web-bergen" />
+                <option name="longName" value="Sonata Web: Bergen" />
+                <option name="name" value="Sonata Web: Bergen" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455590899000" />
+                <option name="date" value="1460295119000" />
+                <option name="description" value="Common resources for all sonata web applications." />
+                <option name="id" value="310140" />
+                <option name="key" value="bravura.sonata:sonarqube.web-common" />
+                <option name="longName" value="Sonata Web: Common" />
+                <option name="name" value="Sonata Web: Common" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591052000" />
+                <option name="date" value="1460295173000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="310314" />
+                <option name="key" value="bravura.sonata:sonarqube.web-desktop" />
+                <option name="longName" value="Sonata Web: Desktop" />
+                <option name="name" value="Sonata Web: Desktop" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591082000" />
+                <option name="date" value="1460295370000" />
+                <option name="description" value="A mobile application based off AngularJS." />
+                <option name="id" value="311118" />
+                <option name="key" value="bravura.sonata:sonarqube.web-habana" />
+                <option name="longName" value="Sonata Web: Habana" />
+                <option name="name" value="Sonata Web: Habana" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591168000" />
+                <option name="date" value="1460295398000" />
+                <option name="description" value="Common JSF web application components." />
+                <option name="id" value="311153" />
+                <option name="key" value="bravura.sonata:sonata-web-jsf" />
+                <option name="longName" value="Sonata Web: JSF" />
+                <option name="name" value="Sonata Web: JSF" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591219000" />
+                <option name="date" value="1460295456000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="311297" />
+                <option name="key" value="bravura.sonata:sonarqube.web-kaedwen" />
+                <option name="longName" value="Sonata Web: Kaedwen" />
+                <option name="name" value="Sonata Web: Kaedwen" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591293000" />
+                <option name="date" value="1460295493000" />
+                <option name="description" value="Common mobile web application components." />
+                <option name="id" value="311404" />
+                <option name="key" value="bravura.sonata:sonarqube.web-mobile" />
+                <option name="longName" value="Sonata Web: Mobile" />
+                <option name="name" value="Sonata Web: Mobile" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591336000" />
+                <option name="date" value="1460295549000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="311529" />
+                <option name="key" value="bravura.sonata:sonarqube.web-rangi" />
+                <option name="longName" value="Sonata Web: Rangi" />
+                <option name="name" value="Sonata Web: Rangi" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591405000" />
+                <option name="date" value="1460295573000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="311544" />
+                <option name="key" value="bravura.sonata:sonarqube.web-remoh" />
+                <option name="longName" value="Sonata Web: Remoh" />
+                <option name="name" value="Sonata Web: Remoh" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591485000" />
+                <option name="date" value="1460295615000" />
+                <option name="description" value="The web front-end functionality of sonata, built off the SBS catalogue." />
+                <option name="id" value="311666" />
+                <option name="key" value="bravura.sonata:sonarqube.web-slough" />
+                <option name="longName" value="Sonata Web: Slough" />
+                <option name="name" value="Sonata Web: Slough" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1455591545000" />
+                <option name="date" value="1460295672000" />
+                <option name="description" value="A mobile application based off AngularJS." />
+                <option name="id" value="311772" />
+                <option name="key" value="bravura.sonata:sonarqube.web-vanilla" />
+                <option name="longName" value="Sonata Web: Vanilla" />
+                <option name="name" value="Sonata Web: Vanilla" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454184024000" />
+                <option name="date" value="1460316200000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="206467" />
+                <option name="key" value="bravura.sonata:sonarqube.sqlb" />
+                <option name="longName" value="SqlB" />
+                <option name="name" value="SqlB" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.19.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454424009000" />
+                <option name="date" value="1460316780000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="254971" />
+                <option name="key" value="bravura.sonata:sonarqube.sqlb:bonn-5.3.9-dev" />
+                <option name="longName" value="SqlB bonn-5.3.9-dev" />
+                <option name="name" value="SqlB bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896926000" />
+                <option name="date" value="1459896886000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366390" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.babel-stp" />
+                <option name="longName" value="babel-stp" />
+                <option name="name" value="babel-stp" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459899998000" />
+                <option name="date" value="1459899966000" />
+                <option name="id" value="366671" />
+                <option name="key" value="bravura.core:sonarqube.bravura-core-security" />
+                <option name="longName" value="bravura-core-security" />
+                <option name="name" value="bravura-core-security" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459900037000" />
+                <option name="date" value="1459899998000" />
+                <option name="id" value="366704" />
+                <option name="key" value="bravura.core:sonarqube.bravura-core-util" />
+                <option name="longName" value="bravura-core-util" />
+                <option name="name" value="bravura-core-util" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459900079000" />
+                <option name="date" value="1459900037000" />
+                <option name="id" value="366792" />
+                <option name="key" value="bravura.core:sonarqube.bravura-core-web" />
+                <option name="longName" value="bravura-core-web" />
+                <option name="name" value="bravura-core-web" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459900114000" />
+                <option name="date" value="1459900102000" />
+                <option name="id" value="366876" />
+                <option name="key" value="bravura.core:sonarqube.bravura-core-web-jsf2" />
+                <option name="longName" value="bravura-core-web-jsf2" />
+                <option name="name" value="bravura-core-web-jsf2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459900146000" />
+                <option name="date" value="1459900114000" />
+                <option name="id" value="366879" />
+                <option name="key" value="bravura.core:sonarqube.bravura-fix-integration" />
+                <option name="longName" value="bravura-fix-integration" />
+                <option name="name" value="bravura-fix-integration" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459900178000" />
+                <option name="date" value="1459900146000" />
+                <option name="id" value="366935" />
+                <option name="key" value="bravura.core:sonarqube.bravura-fix-quickfix" />
+                <option name="longName" value="bravura-fix-quickfix" />
+                <option name="name" value="bravura-fix-quickfix" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.17.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454037061000" />
+                <option name="date" value="1460299500000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="195309" />
+                <option name="key" value="bravura.sonata:sonarqube.correspondence" />
+                <option name="longName" value="correspondence" />
+                <option name="name" value="correspondence" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454401511000" />
+                <option name="date" value="1460305833000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="211673" />
+                <option name="key" value="bravura.sonata:sonarqube.correspondence:bonn-5.3.9-dev" />
+                <option name="longName" value="correspondence bonn-5.3.9-dev" />
+                <option name="name" value="correspondence bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454038715000" />
+                <option name="date" value="1460299513000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="206428" />
+                <option name="key" value="bravura.sonata:sonarqube.correspondence-remoh" />
+                <option name="longName" value="correspondence-remoh" />
+                <option name="name" value="correspondence-remoh" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1454401533000" />
+                <option name="date" value="1460305846000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="211676" />
+                <option name="key" value="bravura.sonata:sonarqube.correspondence-remoh:bonn-5.3.9-dev" />
+                <option name="longName" value="correspondence-remoh bonn-5.3.9-dev" />
+                <option name="name" value="correspondence-remoh bonn-5.3.9-dev" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.3.9.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896969000" />
+                <option name="date" value="1459896930000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366437" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.ctc-illustrations" />
+                <option name="longName" value="ctc-illustrations" />
+                <option name="name" value="ctc-illustrations" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459897047000" />
+                <option name="date" value="1459897020000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366605" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.dealing-pilot" />
+                <option name="longName" value="dealing-pilot" />
+                <option name="name" value="dealing-pilot" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896883000" />
+                <option name="date" value="1459896839000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366318" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.ergo-pallas-illustrations" />
+                <option name="longName" value="ergo-pallas-illustrations" />
+                <option name="name" value="ergo-pallas-illustrations" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896701000" />
+                <option name="date" value="1459896661000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366052" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-api" />
+                <option name="longName" value="etalis-api" />
+                <option name="name" value="etalis-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896737000" />
+                <option name="date" value="1459896725000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366192" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-api-cxf" />
+                <option name="longName" value="etalis-api-cxf" />
+                <option name="name" value="etalis-api-cxf" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896724000" />
+                <option name="date" value="1459896699000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366186" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-api-cxf-generator" />
+                <option name="longName" value="etalis-api-cxf-generator" />
+                <option name="name" value="etalis-api-cxf-generator" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459895800000" />
+                <option name="date" value="1459895760000" />
+                <option name="id" value="364203" />
+                <option name="key" value="bravura.etalis:etalis-core" />
+                <option name="longName" value="etalis-core" />
+                <option name="name" value="etalis-core" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.46.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459894667000" />
+                <option name="date" value="1459896381000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="364161" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-core" />
+                <option name="longName" value="etalis-core" />
+                <option name="name" value="etalis-core" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459895936000" />
+                <option name="date" value="1459895800000" />
+                <option name="id" value="364289" />
+                <option name="key" value="bravura.etalis:etalis-dao" />
+                <option name="longName" value="etalis-dao" />
+                <option name="name" value="etalis-dao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="4.46.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896543000" />
+                <option name="date" value="1459896411000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="364926" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-dao" />
+                <option name="longName" value="etalis-dao" />
+                <option name="name" value="etalis-dao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896554000" />
+                <option name="date" value="1459896542000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="365767" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-dao-jsf2" />
+                <option name="longName" value="etalis-dao-jsf2" />
+                <option name="name" value="etalis-dao-jsf2" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896789000" />
+                <option name="date" value="1459896739000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366195" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-integration" />
+                <option name="longName" value="etalis-integration" />
+                <option name="name" value="etalis-integration" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896576000" />
+                <option name="date" value="1459896554000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="365768" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-report-dao" />
+                <option name="longName" value="etalis-report-dao" />
+                <option name="name" value="etalis-report-dao" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896660000" />
+                <option name="date" value="1459896641000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366046" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-report-service" />
+                <option name="longName" value="etalis-report-service" />
+                <option name="name" value="etalis-report-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896642000" />
+                <option name="date" value="1459896577000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="365777" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-service" />
+                <option name="longName" value="etalis-service" />
+                <option name="name" value="etalis-service" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459897103000" />
+                <option name="date" value="1459897080000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366660" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-test-harness" />
+                <option name="longName" value="etalis-test-harness" />
+                <option name="name" value="etalis-test-harness" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459897075000" />
+                <option name="date" value="1459897046000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366633" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.etalis-test-util" />
+                <option name="longName" value="etalis-test-util" />
+                <option name="name" value="etalis-test-util" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896798000" />
+                <option name="date" value="1459896787000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366299" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.master-persistence-unit" />
+                <option name="longName" value="master-persistence-unit" />
+                <option name="name" value="master-persistence-unit" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459897017000" />
+                <option name="date" value="1459896971000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366490" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.origo-integration" />
+                <option name="longName" value="origo-integration" />
+                <option name="name" value="origo-integration" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896809000" />
+                <option name="date" value="1459896797000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366302" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.report-persistence-unit" />
+                <option name="longName" value="report-persistence-unit" />
+                <option name="name" value="report-persistence-unit" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1459896838000" />
+                <option name="date" value="1459896810000" />
+                <option name="description" value="The parent pom for all Bravura projects." />
+                <option name="id" value="366305" />
+                <option name="key" value="bravura.sonata.etalis:sonarqube.spire-annuity" />
+                <option name="longName" value="spire-annuity" />
+                <option name="name" value="spire-annuity" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="5.8.0-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
