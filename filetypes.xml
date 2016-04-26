@@ -1,20 +1,22 @@
 <application>
-  <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="Dockerfile" type="Docker file" />
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="abnf" type="Grammar" />
       <mapping ext="peg" type="Grammar" />
-      <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig.epp" type="PLAIN_TEXT" />
+      <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping ext="dot" type="PLAIN_TEXT" />
+      <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="lojbo" type="PLAIN_TEXT" />
+      <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="jadt" type="YAML" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping ext="nginx" type="nginx file type" />
       <mapping ext="peg" type="ANTLR Grammar" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
