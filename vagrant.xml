@@ -1,5 +1,5 @@
 <application>
   <component name="VagrantSettings">
-    <option name="vagrantExecutable" value="c:\apps\vagrant\bin\vagrant.exe" />
+    <option name="vagrantExecutable" value="C:/apps/vagrant/bin/vagrant.exe" />
   </component>
 </application>
