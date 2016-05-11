@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="Dockerfile" type="Docker file" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="abnf" type="Grammar" />
       <mapping ext="peg" type="Grammar" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig.epp" type="PLAIN_TEXT" />
       <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="lojbo" type="PLAIN_TEXT" />

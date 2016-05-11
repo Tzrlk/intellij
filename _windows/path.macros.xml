@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="C:/Users/pcummuskey/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Users\pcummuskey\.IntelliJIdea2016.1\config\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.1\plugins\Kotlin\kotlinc" />
     <ignoredMacro name="MAVEN_OPTS" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
