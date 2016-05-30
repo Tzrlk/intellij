@@ -3,6 +3,7 @@
     <resource url="antlib:org.apache.maven.artifact.ant" location="C:/code/bravura/sonata-svn/sonata-core/lib/core/ant/maven-ant-tasks-2.1.3.jar!/META-INF/plexus/components.xml" />
     <resource url="http://camel.apache.org/schema/spring/camel-spring.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/9caa49d4_camel-spring.xsd" />
     <resource url="http://docs.jboss.org/cdi/beans_1_1.xsd" location="$MAVEN_REPOSITORY$/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar!/beans_1_1.xsd" />
+    <resource url="http://jboss.org/schema/weld/beans_1_1.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/733cb093_beans_1_1.xsd" />
     <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/5a3ee903_log4j.dtd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.3.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/48c709e9_assembly-1.1.3.xsd" />
     <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/pcummuskey/.IntelliJIdea14/config/plugins/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
