@@ -11,6 +11,7 @@
       <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="lojbo" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
