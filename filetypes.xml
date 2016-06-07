@@ -8,6 +8,7 @@
       <mapping ext="abnf" type="Grammar" />
       <mapping ext="peg" type="Grammar" />
       <mapping pattern=".gitconfig.epp" type="PLAIN_TEXT" />
+      <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
       <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
