@@ -2,9 +2,9 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.99.101:2376" />
-        <option name="certificatesPath" value="C:\Users\pcummuskey\.docker\machine\machines\docker-vm" />
-        <option name="machine" value="docker-vm" />
+        <option name="apiUrl" value="https://192.168.99.102:2376" />
+        <option name="certificatesPath" value="C:\Users\pcummuskey\.docker\machine\machines\docker-vm-proxied" />
+        <option name="machine" value="docker-vm-proxied" />
       </configuration>
     </remote-server>
   </component>
