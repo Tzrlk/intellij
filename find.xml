@@ -1,16 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'sonata-web'" />
     <option name="defaultScopeName" value="Project 'sonata-web'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'sonata-web'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,13 +17,13 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.scss</mask>
-      <mask>*.java</mask>
       <mask>*-template.jade</mask>
       <mask>.js</mask>
       <mask>*.js</mask>
       <mask>package.json</mask>
       <mask>*.less</mask>
       <mask>pom.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
