@@ -7,6 +7,7 @@
     <resource url="http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/5a3ee903_log4j.dtd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.3.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/48c709e9_assembly-1.1.3.xsd" />
     <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/pcummuskey/.IntelliJIdea14/config/plugins/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
+    <resource url="https://raw.githubusercontent.com/apache/logging-log4j2/master/log4j-core/src/main/resources/Log4j-config.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/acf3d0a7_Log4j-config.xsd" />
     <resource url="urn:jboss:domain:1.2" location="C:/apps/jboss-as-7.1.1.Final/docs/schema/jboss-as-config_1_2.xsd" />
   </component>
 </application>
