@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="auksquid2.bravurasolutions.local" />
     <option name="PROXY_PORT" value="3128" />
     <option name="PROXY_EXCEPTIONS" value="*.bravurasolutions.local, localhost, 127.0.0.1" />

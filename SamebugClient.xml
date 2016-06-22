@@ -1,5 +1,8 @@
 <application>
   <component name="SamebugConfiguration">
+    <option name="apiKey" value="d6fd79ca-298d-4ff4-a283-4a21b4e13bae" />
     <option name="instanceId" value="aa01e23d-d4c5-4f93-977b-3bb45d6f41a0" />
+    <option name="userId" value="1358" />
+    <option name="avatarUrl" value="https://samebug.io/avatars/312" />
   </component>
 </application>

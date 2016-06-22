@@ -2,5 +2,6 @@
   <component name="SamebugTutorialConfiguration">
     <option name="firstRun" value="false" />
     <option name="historyTab" value="false" />
+    <option name="searchTab" value="false" />
   </component>
 </application>
