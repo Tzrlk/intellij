@@ -1,7 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="GIT_DIR" value="C:/code/aetheric/vodoun" />
+    <macro name="KOTLIN_BUNDLED" value="C:/Users/pcummuskey/.IntelliJIdea2016.1/config/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/pcummuskey/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Users\pcummuskey\.IntelliJIdea2016.1\config\plugins\Kotlin\kotlinc" />
     <ignoredMacro name="MAVEN_OPTS" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
