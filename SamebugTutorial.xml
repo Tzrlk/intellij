@@ -3,5 +3,6 @@
     <option name="firstRun" value="false" />
     <option name="historyTab" value="false" />
     <option name="searchTab" value="false" />
+    <option name="recurringExceptionsFilter" value="false" />
   </component>
 </application>
