@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <token>df99dfcbdf9cdf93df9adfccdf9bdf9edf9edf9ddf9ddf99df9edfc9df99df9edf9adf93df9ddfcfdfc9df93df98dfccdf9bdfc8df99df9bdfcedf9bdfc9df99df9fdfc9df98dfcbdfc9df9edfccdf98</token>
+          <option name="hostUrl" value="http://sonar.bravurasolutions.local" />
+          <option name="name" value="Bravura" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
