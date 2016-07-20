@@ -4,9 +4,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="Docker file" />
       <mapping ext="df" type="Docker file" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
-      <mapping ext="abnf" type="Grammar" />
-      <mapping ext="peg" type="Grammar" />
+      <mapping ext="p12" type="Native" />
       <mapping pattern=".gitconfig.epp" type="PLAIN_TEXT" />
       <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
       <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
@@ -18,9 +16,10 @@
       <mapping ext="lojbo" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="jadt" type="YAML" />
-      <mapping ext="nginx" type="nginx file type" />
-      <mapping ext="peg" type="ANTLR Grammar" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping ext="nginx" type="nginx file type" />
+      <mapping ext="abnf" type="Grammar" />
+      <mapping ext="peg" type="ANTLR Grammar" />
     </extensionMap>
   </component>
 </application>
