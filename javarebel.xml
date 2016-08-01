@@ -4,8 +4,8 @@
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;true&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8088\/&quot;}]}" />
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="6.4.6" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="6.4.7" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
     <option name="javaRebelPath" value="C:\Users\pcummuskey\.IntelliJIdea14\config\plugins\jr-ide-idea\lib\jrebel\jrebel.jar" />
