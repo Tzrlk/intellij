@@ -1,5 +1,14 @@
 <application>
   <component name="libraryTable">
+    <library name="ast (v2.3.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="deep_merge (v1.0.1, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/deep_merge-1.0.1/lib" />
@@ -7,6 +16,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/deep_merge-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="facter (v2.4.6, ruby-2.1.7-p400) [gem]">
@@ -171,6 +193,15 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/locale-2.1.2/samples" />
       </SOURCES>
     </library>
+    <library name="metaclass (v0.0.4, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/metaclass-0.0.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/metaclass-0.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="metadata-json-lint (v0.0.11, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/metadata-json-lint-0.0.11/bin" />
@@ -195,6 +226,21 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/minitar-0.5.4/tests" />
       </SOURCES>
     </library>
+    <library name="mocha (v1.1.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/yard-templates" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/gemfiles" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/mocha-1.1.0/yard-templates" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/multipart-post-2.0.0/lib" />
@@ -202,6 +248,46 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.1.2, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/parser-2.3.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/parser-2.3.1.2/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/parser-2.3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="puppet-lint (v2.0.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-lint-2.0.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-lint-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-lint-2.0.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-lint-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="puppet-syntax (v2.1.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-syntax-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-syntax-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="puppet_forge (v2.2.2, ruby-2.1.7-p400) [gem]">
@@ -215,6 +301,95 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.2/locales" />
       </SOURCES>
     </library>
+    <library name="puppetlabs_spec_helper (v1.1.1, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppetlabs_spec_helper-1.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppetlabs_spec_helper-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.1.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v11.2.2, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/exe" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/exe" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.5.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.5.2, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.2/exe" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.2/exe" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-core-3.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.5.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.5.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-puppet (v2.4.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.4.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.4.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.5.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rsync (v1.0.9, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rsync-1.0.9/lib" />
@@ -222,6 +397,30 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rsync-1.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.42.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/assets" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/bin" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/assets" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rubocop-0.42.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.8.1, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ruby-progressbar-1.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ruby-progressbar-1.8.1/lib" />
       </SOURCES>
     </library>
     <library name="scala-sdk-2.11.7" type="Scala">
@@ -383,6 +582,17 @@
       <SOURCES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/thor-0.19.1/bin" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.1.0, ruby-2.1.7-p400) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.1.0/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.1.0/lib" />
+        <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.1.0/data" />
       </SOURCES>
     </library>
     <library name="win32-dir (v0.4.9, ruby-2.1.7-p400) [gem]">
