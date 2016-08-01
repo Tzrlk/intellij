@@ -9,6 +9,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="badgerious-windows_env_2.2.2 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/windows_env" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="deep_merge (v1.0.1, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/deep_merge-1.0.1/lib" />
@@ -120,6 +127,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/gettext-setup-0.3/locales" />
       </SOURCES>
     </library>
+    <library name="graylog-graylog_0.1.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/graylog" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="hiera (v3.2.0, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/hiera-3.2.0-x64-mingw32/bin" />
@@ -135,6 +149,13 @@
       <CLASSES>
         <root url="file://C:/code/tzrlk/intellij-lojban/idea-flex.skeleton" />
         <root url="jar://C:/code/tzrlk/intellij-lojban/JFlex.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jfryman-nginx_0.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/nginx" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -192,6 +213,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/locale-2.1.2/lib" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/locale-2.1.2/samples" />
       </SOURCES>
+    </library>
+    <library name="maestrodev-wget_1.7.3 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/wget" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="metaclass (v0.0.4, ruby-2.1.7-p400) [gem]">
       <CLASSES>
@@ -281,6 +309,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-lint-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="puppet-staging_1.0.7 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/staging" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="puppet-syntax (v2.1.0, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-syntax-2.1.0/lib" />
@@ -300,6 +335,55 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.2/lib" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.2/locales" />
       </SOURCES>
+    </library>
+    <library name="puppetlabs-apt_2.2.2 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/apt" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-concat_2.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/concat" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-firewall_1.8.1 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/firewall" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-git_0.5.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/git" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-java_1.6.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/java" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mysql_3.8.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/mysql" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-stdlib_4.12.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/stdlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="puppetlabs_spec_helper (v1.1.1, ruby-2.1.7-p400) [gem]">
       <CLASSES>
@@ -583,6 +667,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/thor-0.19.1/bin" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/thor-0.19.1/lib" />
       </SOURCES>
+    </library>
+    <library name="tykeal-gerrit_1.1.1 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/gerrit" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="unicode-display_width (v1.1.0, ruby-2.1.7-p400) [gem]">
       <CLASSES>
