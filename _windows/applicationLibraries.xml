@@ -16,6 +16,20 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="ceritsc-yum_0.9.8 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/yum" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="cjtoolseram-drone_0.5.6 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/drone" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="deep_merge (v1.0.1, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/deep_merge-1.0.1/lib" />
@@ -37,6 +51,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/lib" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
+    </library>
+    <library name="elasticsearch-elasticsearch_0.13.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/elasticsearch" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="facter (v2.4.6, ruby-2.1.7-p400) [gem]">
       <CLASSES>
@@ -96,6 +117,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.6-x64-mingw32/lib" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.6-x64-mingw32/libtest" />
       </SOURCES>
+    </library>
+    <library name="garethr-docker_5.2.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/docker" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="gettext (v3.2.2, ruby-2.1.7-p400) [gem]">
       <CLASSES>
@@ -300,6 +328,13 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="profiles_nover [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/profiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="puppet (v4.5.3, ruby-2.1.7-p400) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/puppet-4.5.3-x64-mingw32/bin" />
@@ -371,6 +406,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="puppetlabs-docker_platform_2.1.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/docker_platform" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="puppetlabs-firewall_1.8.1 [puppet module]">
       <CLASSES>
         <root url="file://C:/code/bravura-devops/puppet-master/modules/firewall" />
@@ -388,6 +430,13 @@
     <library name="puppetlabs-java_1.6.0 [puppet module]">
       <CLASSES>
         <root url="file://C:/code/bravura-devops/puppet-master/modules/java" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-mongodb_0.14.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/mongodb" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -436,6 +485,20 @@
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/exe" />
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/rake-11.2.2/lib" />
       </SOURCES>
+    </library>
+    <library name="richardc-datacat_0.6.2 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/datacat" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="roles_nover [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/roles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="rspec (v3.5.0, ruby-2.1.7-p400) [gem]">
       <CLASSES>
@@ -575,6 +638,13 @@
       <SOURCES>
         <root url="file://C:/Program Files/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.1.0/gems/spdx-licenses-1.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="stahnma-epel_1.2.2 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/epel" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="stomp (v1.3.3, ruby-2.1.7-p400) [gem]">
       <CLASSES>
