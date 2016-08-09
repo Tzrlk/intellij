@@ -23,6 +23,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="chocolatey-chocolatey_1.2.6 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/chocolatey" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="cjtoolseram-drone_0.5.6 [puppet module]">
       <CLASSES>
         <root url="file://C:/code/bravura-devops/puppet-master/modules/drone" />
@@ -121,6 +128,13 @@
     <library name="garethr-docker_5.2.0 [puppet module]">
       <CLASSES>
         <root url="file://C:/code/bravura-devops/puppet-master/modules/docker" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="genebean-nxlog_1.3.0 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/nxlog" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
@@ -444,6 +458,13 @@
     <library name="puppetlabs-mysql_3.8.0 [puppet module]">
       <CLASSES>
         <root url="file://C:/code/bravura-devops/puppet-master/modules/mysql" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="puppetlabs-powershell_2.0.2 [puppet module]">
+      <CLASSES>
+        <root url="file://C:/code/bravura-devops/puppet-master/modules/powershell" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
