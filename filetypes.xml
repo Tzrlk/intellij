@@ -14,6 +14,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="lojbo" type="PLAIN_TEXT" />
+      <mapping ext="prefs" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="jadt" type="YAML" />
       <mapping pattern="nginx.conf" type="nginx file type" />
