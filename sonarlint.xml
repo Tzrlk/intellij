@@ -3,9 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>df99dfcbdf9cdf93df9adfccdf9bdf9edf9edf9ddf9ddf99df9edfc9df99df9edf9adf93df9ddfcfdfc9df93df98dfccdf9bdfc8df99df9bdfcedf9bdfc9df99df9fdfc9df98dfcbdfc9df9edfccdf98</token>
-          <option name="hostUrl" value="http://sonar.bravurasolutions.local" />
-          <option name="name" value="Bravura" />
+          <token>df9cdfcedf92dfcbdf9ddf9cdf99dfccdfcbdf9bdf9edf9bdf93df9adfc8df93df98dfcbdf9edf99df93df93df9fdfcfdf9fdf98dfccdfc8df9cdf99dfc9df9adf9fdf99dfcedf9bdfcedfccdfccdfc9</token>
+          <option name="hostUrl" value="http://sonar.bravurasolutions.local/" />
+          <option name="name" value="sonar" />
         </SonarQubeServer>
       </list>
     </option>
