@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -13,14 +14,15 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
       <mapping ext="prefs" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="lojbo" type="PLAIN_TEXT" />
       <mapping ext="pu" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="Rust" />
       <mapping ext="jadt" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
       <mapping ext="abnf" type="Grammar" />
       <mapping ext="df" type="Docker file" />

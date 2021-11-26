@@ -15,6 +15,11 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   </JavaCodeStyleSettings>
+  <RsCodeStyleSettings>
+    <option name="ALIGN_RET_TYPE" value="false" />
+    <option name="ALIGN_TYPE_PARAMS" value="true" />
+    <option name="SPACE_AROUND_ASSOC_TYPE_BINDING" value="true" />
+  </RsCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
@@ -134,7 +139,12 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Rust">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
