@@ -1,5 +1,5 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://C:/work/terraform-api-rust/chocolatey.config" value="XML" />
+    <file url="file://C:/dev/code/idmc/terraform-aws-idmc-agents/files/userdata.sh.tftpl" value="Terraform Template" />
   </component>
 </application>

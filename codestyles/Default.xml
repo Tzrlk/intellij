@@ -1,1 +1,22 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="SOFT_MARGINS" value="80,120" />
+  <Ruby>
+    <option name="SPACE_WITHIN_ARRAY_LITERALS" value="true" />
+    <option name="INDENT_VISIBILITY_MODIFIERS" value="false" />
+    <option name="INDENT_WHEN_CASES" value="true" />
+    <option name="CHAIN_CALLS_ALIGNMENT" value="1" />
+  </Ruby>
+  <codeStyleSettings language="ruby">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

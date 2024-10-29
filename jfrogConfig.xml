@@ -1,0 +1,17 @@
+<application>
+  <component name="GlobalSettings">
+    <option name="serverConfig">
+      <ServerConfigImpl>
+        <option name="url" value="" />
+        <option name="xrayUrl" value="" />
+        <option name="artifactoryUrl" value="" />
+        <policyType>VULNERABILITIES</policyType>
+        <option name="project" value="" />
+        <option name="watches" value="" />
+        <excludedPaths>**/*{.git,.idea,test,node_modules}*</excludedPaths>
+        <connectionRetries>3</connectionRetries>
+        <connectionTimeout>300</connectionTimeout>
+      </ServerConfigImpl>
+    </option>
+  </component>
+</application>

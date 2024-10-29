@@ -1,0 +1,6 @@
+<application>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="C:\dev\chocolatey\bin\docker.exe" />
+    <option name="dockerPath" value="C:\dev\chocolatey\bin\docker.exe" />
+  </component>
+</application>

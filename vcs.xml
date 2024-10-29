@@ -1,15 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="git@aklgit.bravurasolutions.local:toolshed/autominator.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="C:\code\bravura" />
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
@@ -17,10 +6,12 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>

@@ -1,0 +1,695 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="18" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;18&quot;" />
+      <homePath value="C:/Program Files/OpenJDK/jdk-18" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.base" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.compiler" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.desktop" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.instrument" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.logging" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.management" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.naming" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.net.http" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.prefs" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.rmi" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.scripting" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.se" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.sql" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.xml" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.crypto.mscapi" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.editpad" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.incubator.vector" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.opt" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jartool" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.javadoc" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jcmd" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jconsole" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jdeps" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jlink" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jpackage" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jshell" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.jstatd" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.management" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.net" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.random" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Program Files/OpenJDK/jdk-18!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.se" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jdi" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jfr" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.net" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.rmi" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.sql" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.xml" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jcmd" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.sctp" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.base" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jdeps" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jlink" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.zipfs" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.prefs" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.attach" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jshell" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jstatd" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.random" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.naming" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.editpad" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jartool" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.javadoc" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.xml.dom" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.desktop" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.logging" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.charsets" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.compiler" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.dynalink" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jconsole" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jpackage" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jsobject" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.compiler" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.net.http" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.crypto.ec" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.scripting" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.httpserver" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.jdwp.agent" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.localedata" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.management" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.naming.dns" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.naming.rmi" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.instrument" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.management" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.sql.rowset" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.xml.crypto" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.ed" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.le" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.nio.mapmode" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.unsupported" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.smartcardio" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.opt" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.datatransfer" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.accessibility" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.hotspot.agent" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.security.auth" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.security.jgss" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.security.jgss" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.security.sasl" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.management.jfr" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.management.rmi" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/java.transaction.xa" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.incubator.vector" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.management.agent" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.incubator.foreign" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jar://C:/Program Files/OpenJDK/jdk-18/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-3.2.2-p53" />
+      <type value="RUBY_SDK" />
+      <version value="ver.3.2.2 ( revision e51014f9c0) p53" />
+      <homePath value="C:/tools/ruby/ruby-3.2.2-1-x64/bin/ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0/x64-ucrt" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs32" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0/x64-ucrt" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs32" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0/x64-ucrt" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0" type="simple" />
+            <root url="file://C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs32" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional PLATFORM="x64-mingw-ucrt" version="1" GEMS_BIN_DIR_PATH="C:\Users\m811632\.gem\ruby\3.2.0\bin">
+        <VERSION_MANAGER ID="system">
+          <custom-configurator>
+            <list />
+          </custom-configurator>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="gcc-ar" />
+          <item key="ARCH_FLAG" value="-m64" />
+          <item key="ARFLAGS" value="rcD " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="gcc.exe (Rev10, Built by MSYS2 project) 12.2.0&#10;Copyright (C) 2022 Free Software Foundation, Inc.&#10;This is free software; see the source for copying conditions.  There is NO&#10;warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE." />
+          <item key="CFLAGS" value="-O3 -fno-fast-math -fstack-protector-strong" />
+          <item key="CHDIR" value="cd" />
+          <item key="COMMON_HEADERS" value="winsock2.h windows.h" />
+          <item key="COMMON_LIBS" value="m" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COROUTINE_TYPE" value="win64" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value="-D__USE_MINGW_ANSI_STDIO=1 -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64 " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-march=nocona -msahf -mtune=generic -O2 -pipe" />
+          <item key="DEFS" value="-D_FILE_OFFSET_BITS=64" />
+          <item key="DESTDIR" value="C:" />
+          <item key="DLDFLAGS" value="-pipe -s -fstack-protector-strong -Wl,--enable-auto-image-base,--enable-auto-import" />
+          <item key="DLDSHARED" value="gcc -shared" />
+          <item key="DLEXT" value="so" />
+          <item key="DLLWRAP" value="dllwrap" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="DOXYGEN" value="doxygen" />
+          <item key="ECHO_N" value="-n" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXECUTABLE_EXTS" value=".exe .com .cmd .bat" />
+          <item key="EXEEXT" value=".exe" />
+          <item key="EXPORT_PREFIX" value=" " />
+          <item key="EXTDLDFLAGS" value="$(DEFFILE)" />
+          <item key="EXTLDFLAGS" value="-static-libgcc" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="yes" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/bin/install -c" />
+          <item key="INSTALL_DATA" value="/usr/bin/install -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/bin/install -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/bin/install -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed" />
+          <item key="LDSHARED" value="gcc -shared" />
+          <item key="LDSHAREDXX" value="g++ -shared" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libx64-ucrt-ruby320.dll.a" />
+          <item key="LIBRUBYARG" value="-lx64-ucrt-ruby320" />
+          <item key="LIBRUBYARG_SHARED" value="-lx64-ucrt-ruby320" />
+          <item key="LIBRUBYARG_STATIC" value="-lx64-ucrt-ruby320-static -lgmp -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="LIBRUBY_A" value="libx64-ucrt-ruby320-static.a" />
+          <item key="LIBRUBY_RELATIVE" value="yes" />
+          <item key="LIBRUBY_SO" value="x64-ucrt-ruby320.dll" />
+          <item key="LIBRUBY_SONAME" value="libx64-ucrt-ruby320.dll.3.2" />
+          <item key="LIBS" value="-lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="LN_S" value="cp -pR" />
+          <item key="MAINLIBS" value="-lgmp -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="MAJOR" value="3" />
+          <item key="MAKEDIRS" value="/usr/bin/mkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="man" />
+          <item key="MINOR" value="2" />
+          <item key="MJIT_CC" value="C:/msys64/ucrt64/bin/gcc.exe" />
+          <item key="MJIT_SUPPORT" value="no" />
+          <item key="MKDIR_P" value="/usr/bin/mkdir -p" />
+          <item key="MKMF_VERBOSE" value="0" />
+          <item key="NM" value="gcc-nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="53" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="x86_64-w64-mingw32-pkg-config" />
+          <item key="PLATFORM_DIR" value="win32" />
+          <item key="POSTLINK" value=":" />
+          <item key="PREP" value="miniruby.exe" />
+          <item key="RANLIB" value="gcc-ranlib" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir --ignore-fail-on-non-empty" />
+          <item key="RMDIRS" value="rmdir --ignore-fail-on-non-empty -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBYW_INSTALL_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="3.2" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="3.2.2" />
+          <item key="RUBY_SO_NAME" value="x64-ucrt-ruby320" />
+          <item key="RUBY_VERSION_NAME" value="ruby-3.2.0" />
+          <item key="RUSTC" value="rustc" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dll" />
+          <item key="SOLIBS" value="-lgmp -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="STRIP" value="strip -S -x" />
+          <item key="TEENY" value="2" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="win32" />
+          <item key="UNICODE_EMOJI_VERSION" value="15.0" />
+          <item key="UNICODE_VERSION" value="15.0.0" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="WINDRES" value="windres" />
+          <item key="YJIT_SUPPORT" value="no" />
+          <item key="arch" value="x64-mingw-ucrt" />
+          <item key="archdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" />
+          <item key="archincludedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/x64-mingw-ucrt" />
+          <item key="archlibdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/x64-mingw-ucrt" />
+          <item key="bindir" value="C:/tools/ruby/ruby-3.2.2-1-x64/bin" />
+          <item key="build" value="x86_64-w64-mingw32" />
+          <item key="build_alias" value="x86_64-w64-mingw32" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="mingw32" />
+          <item key="build_vendor" value="w64" />
+          <item key="cflags" value="-O3 -fno-omit-frame-pointer -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdiv-by-zero -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wold-style-definition -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+          <item key="configure_args" value=" '--prefix=/ucrt64' '--build=x86_64-w64-mingw32' '--host=x86_64-w64-mingw32' '--target=x86_64-w64-mingw32' '--without-ext=readline,pty,syslog' 'build_alias=x86_64-w64-mingw32' 'host_alias=x86_64-w64-mingw32' 'target_alias=x86_64-w64-mingw32' 'CC=gcc' 'CXX=g++' 'CFLAGS=-O3 -fno-fast-math -fstack-protector-strong' 'LDFLAGS=-pipe -s -fstack-protector-strong' 'CPPFLAGS=-D__USE_MINGW_ANSI_STDIO=1 -DFD_SETSIZE=2048' 'CXXFLAGS=-march=nocona -msahf -mtune=generic -O2 -pipe'" />
+          <item key="datadir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share" />
+          <item key="datarootdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/doc/ruby" />
+          <item key="dvidir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="C:/tools/ruby/ruby-3.2.2-1-x64" />
+          <item key="host" value="x64-w64-mingw32" />
+          <item key="host_alias" value="x86_64-w64-mingw32" />
+          <item key="host_cpu" value="x64" />
+          <item key="host_os" value="mingw32" />
+          <item key="host_vendor" value="w64" />
+          <item key="htmldir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/doc/ruby" />
+          <item key="includedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include" />
+          <item key="infodir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/info" />
+          <item key="libdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/libexec" />
+          <item key="localedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/locale" />
+          <item key="localstatedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/var" />
+          <item key="mandir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-omit-frame-pointer -fno-fast-math" />
+          <item key="pdfdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/doc/ruby" />
+          <item key="platform" value="x64-mingw-ucrt" />
+          <item key="prefix" value="C:/tools/ruby/ruby-3.2.2-1-x64" />
+          <item key="psdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/doc/ruby" />
+          <item key="ridir" value="C:/tools/ruby/ruby-3.2.2-1-x64/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-3.2.pc" />
+          <item key="ruby_version" value="3.2.0" />
+          <item key="rubyarchdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" />
+          <item key="rubyarchhdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0/x64-mingw-ucrt" />
+          <item key="rubyarchprefix" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/x64-mingw-ucrt" />
+          <item key="rubyhdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0" />
+          <item key="rubylibdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0" />
+          <item key="rubylibprefix" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby" />
+          <item key="rubysitearchprefix" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/x64-ucrt" />
+          <item key="rubyw_install_name" value="rubyw" />
+          <item key="runstatedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/var/run" />
+          <item key="sbindir" value="C:/tools/ruby/ruby-3.2.2-1-x64/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/com" />
+          <item key="sitearch" value="x64-ucrt" />
+          <item key="sitearchdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby/3.2.0/x64-ucrt" />
+          <item key="sitearchhdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0/site_ruby/x64-ucrt" />
+          <item key="sitearchincludedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/x64-ucrt" />
+          <item key="sitearchlibdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/x64-ucrt" />
+          <item key="sitedir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0/site_ruby" />
+          <item key="sitelibdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/site_ruby/3.2.0" />
+          <item key="target" value="x64-w64-mingw32" />
+          <item key="target_alias" value="x86_64-w64-mingw32" />
+          <item key="target_cpu" value="x64" />
+          <item key="target_os" value="mingw32" />
+          <item key="target_vendor" value="w64" />
+          <item key="topdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/3.2.0/x64-mingw-ucrt" />
+          <item key="vendorarchdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0/x64-ucrt" />
+          <item key="vendorarchhdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0/vendor_ruby/x64-ucrt" />
+          <item key="vendordir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/include/ruby-3.2.0/vendor_ruby" />
+          <item key="vendorlibdir" value="C:/tools/ruby/ruby-3.2.2-1-x64/lib/ruby/vendor_ruby/3.2.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wdeprecated-declarations -Wdiv-by-zero -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wold-style-definition -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+        </RbConfig>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote: ruby-3.1.2-p20" />
+      <type value="RUBY_SDK" />
+      <version value="ver.3.1.2p20 ( revision 4491bb740a) p20" />
+      <homePath value="docker://docker.artifactory2.westpac.co.nz/wnzl/chefworkstation:23.7.1042//opt/chef-workstation/embedded/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/.rubymine_gems/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/.rubymine_gems/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/.rubymine_gems/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/.rubymine_gems/gems" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional PLATFORM="x86_64-linux" version="1" GEMS_BIN_DIR_PATH="C:\Users\M811632\AppData\Local\JetBrains\IntelliJIdea2024.2\ruby_stubs\-1232282202\opt\chef-workstation\embedded\bin" DATA-VERSION="2" INTERPRETER_PATH="/opt/chef-workstation/embedded/bin/ruby" HELPERS_PATH="/opt/.rubymine_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" AVAILABLE_FOR_NEW_PROJECTS="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker.artifactory2.westpac.co.nz/wnzl/chefworkstation:23.7.1042" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+        <VERSION_MANAGER ID="system">
+          <custom-configurator>
+            <list />
+          </custom-configurator>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="gcc-ar" />
+          <item key="ARFLAGS" value="rcD " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CCDLFLAGS" value="-fPIC" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="gcc (GCC) 8.5.0 20210514 (Red Hat 8.5.0-18)&#10;Copyright (C) 2018 Free Software Foundation, Inc.&#10;This is free software; see the source for copying conditions.  There is NO&#10;warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE." />
+          <item key="CFLAGS" value="-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe -fPIC" />
+          <item key="CHDIR" value="cd -P" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value="-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe -I/opt/chef-workstation/embedded/include  " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe" />
+          <item key="DLDFLAGS" value="-Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib -Wl,--compress-debug-sections=zlib -L/opt/chef-workstation/embedded/lib  -Wl,-rpath,/opt/chef-workstation/embedded/lib" />
+          <item key="DLDLIBS" value="-lc" />
+          <item key="DLDSHARED" value="gcc -shared" />
+          <item key="DLEXT" value="so" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_N" value="-n" />
+          <item key="EGREP" value="/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="yes" />
+          <item key="GREP" value="/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/bin/install -c" />
+          <item key="INSTALL_DATA" value="/bin/install -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/bin/install -c" />
+          <item key="INSTALL_SCRIPT" value="/bin/install -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib -fstack-protector-strong -rdynamic -Wl,-export-dynamic -L/opt/chef-workstation/embedded/lib  -Wl,-rpath,/opt/chef-workstation/embedded/lib -Wl,--no-as-needed" />
+          <item key="LDSHARED" value="gcc -shared" />
+          <item key="LDSHAREDXX" value="g++ -shared" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="LD_LIBRARY_PATH" />
+          <item key="LIBPATHFLAG" value=" -L%1$-s" />
+          <item key="LIBRUBY" value="libruby.so.3.1.2" />
+          <item key="LIBRUBYARG" value="-Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib -lruby" />
+          <item key="LIBRUBYARG_SHARED" value="-Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib -lruby" />
+          <item key="LIBRUBYARG_STATIC" value="-Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib -lruby-static -lz -lpthread -lrt -lrt -ldl -lcrypt -lm " />
+          <item key="LIBRUBY_A" value="libruby-static.a" />
+          <item key="LIBRUBY_ALIASES" value="libruby.so.3.1 libruby.so" />
+          <item key="LIBRUBY_RELATIVE" value="no" />
+          <item key="LIBRUBY_SO" value="libruby.so.3.1.2" />
+          <item key="LIBRUBY_SONAME" value="libruby.so.3.1" />
+          <item key="LIBS" value="-lm " />
+          <item key="LN_S" value="ln -s" />
+          <item key="MAINLIBS" value="-lz -lpthread -lrt -lrt -ldl -lcrypt -lm " />
+          <item key="MAJOR" value="3" />
+          <item key="MAKEDIRS" value="/bin/mkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="1" />
+          <item key="MJIT_CC" value="/bin/gcc" />
+          <item key="MJIT_SUPPORT" value="no" />
+          <item key="MKDIR_P" value="/bin/mkdir -p" />
+          <item key="NM" value="gcc-nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="20" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="POSTLINK" value=":" />
+          <item key="PRELOADENV" value="LD_PRELOAD" />
+          <item key="PREP" value="miniruby" />
+          <item key="RANLIB" value="gcc-ranlib" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir --ignore-fail-on-non-empty" />
+          <item key="RMDIRS" value="rmdir --ignore-fail-on-non-empty -p" />
+          <item key="RPATHFLAG" value=" -Wl,-rpath,%1$-s" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="3.1" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_EXEC_PREFIX" value="/opt/chef-workstation/embedded" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="3.1.2" />
+          <item key="RUBY_SO_NAME" value="ruby" />
+          <item key="RUBY_VERSION_NAME" value="ruby-3.1.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="so" />
+          <item key="SOLIBS" value="-lz -lpthread -lrt -lrt -ldl -lcrypt -lm " />
+          <item key="STRIP" value="strip -S -x" />
+          <item key="TEENY" value="2" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="pthread" />
+          <item key="UNICODE_EMOJI_VERSION" value="13.1" />
+          <item key="UNICODE_VERSION" value="13.0.0" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="arch" value="x86_64-linux" />
+          <item key="archdir" value="/opt/chef-workstation/embedded/lib/ruby/3.1.0/x86_64-linux" />
+          <item key="archincludedir" value="/opt/chef-workstation/embedded/include/x86_64-linux" />
+          <item key="archlibdir" value="/opt/chef-workstation/embedded/lib/x86_64-linux" />
+          <item key="bindir" value="/opt/chef-workstation/embedded/bin" />
+          <item key="build" value="x86_64-pc-linux-gnu" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="linux-gnu" />
+          <item key="build_vendor" value="pc" />
+          <item key="cflags" value="-O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+          <item key="configure_args" value=" '--prefix=/opt/chef-workstation/embedded' '--without-ext=dbm,readline' '--enable-shared' '--disable-install-doc' '--without-gmp' '--without-gdbm' '--without-tk' '--disable-dtrace' '--disable-jit-support' '--with-bundled-md5' '--with-opt-dir=/opt/chef-workstation/embedded' 'CFLAGS=-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe' 'LDFLAGS=-Wl,-rpath,/opt/chef-workstation/embedded/lib -L/opt/chef-workstation/embedded/lib' 'CPPFLAGS=-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe' 'CXXFLAGS=-I/opt/chef-workstation/embedded/include -O3 -D_FORTIFY_SOURCE=2 -fstack-protector -O3 -g -pipe'" />
+          <item key="datadir" value="/opt/chef-workstation/embedded/share" />
+          <item key="datarootdir" value="/opt/chef-workstation/embedded/share" />
+          <item key="debugflags" value="-ggdb3" />
+          <item key="docdir" value="/opt/chef-workstation/embedded/share/doc/ruby" />
+          <item key="dvidir" value="/opt/chef-workstation/embedded/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="/opt/chef-workstation/embedded" />
+          <item key="host" value="x86_64-pc-linux-gnu" />
+          <item key="host_cpu" value="x86_64" />
+          <item key="host_os" value="linux" />
+          <item key="host_vendor" value="pc" />
+          <item key="htmldir" value="/opt/chef-workstation/embedded/share/doc/ruby" />
+          <item key="includedir" value="/opt/chef-workstation/embedded/include" />
+          <item key="infodir" value="/opt/chef-workstation/embedded/share/info" />
+          <item key="libdir" value="/opt/chef-workstation/embedded/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="/opt/chef-workstation/embedded/libexec" />
+          <item key="localedir" value="/opt/chef-workstation/embedded/share/locale" />
+          <item key="localstatedir" value="/opt/chef-workstation/embedded/var" />
+          <item key="mandir" value="/opt/chef-workstation/embedded/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-fast-math" />
+          <item key="pdfdir" value="/opt/chef-workstation/embedded/share/doc/ruby" />
+          <item key="platform" value="x86_64-linux" />
+          <item key="prefix" value="/opt/chef-workstation/embedded" />
+          <item key="psdir" value="/opt/chef-workstation/embedded/share/doc/ruby" />
+          <item key="ridir" value="/opt/chef-workstation/embedded/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-3.1.pc" />
+          <item key="ruby_version" value="3.1.0" />
+          <item key="rubyarchdir" value="/opt/chef-workstation/embedded/lib/ruby/3.1.0/x86_64-linux" />
+          <item key="rubyarchhdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0/x86_64-linux" />
+          <item key="rubyarchprefix" value="/opt/chef-workstation/embedded/lib/ruby/x86_64-linux" />
+          <item key="rubyhdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0" />
+          <item key="rubylibdir" value="/opt/chef-workstation/embedded/lib/ruby/3.1.0" />
+          <item key="rubylibprefix" value="/opt/chef-workstation/embedded/lib/ruby" />
+          <item key="rubysitearchprefix" value="/opt/chef-workstation/embedded/lib/ruby/x86_64-linux" />
+          <item key="runstatedir" value="/opt/chef-workstation/embedded/var/run" />
+          <item key="sbindir" value="/opt/chef-workstation/embedded/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="/opt/chef-workstation/embedded/com" />
+          <item key="sitearch" value="x86_64-linux" />
+          <item key="sitearchdir" value="/opt/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x86_64-linux" />
+          <item key="sitearchhdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0/site_ruby/x86_64-linux" />
+          <item key="sitearchincludedir" value="/opt/chef-workstation/embedded/include/x86_64-linux" />
+          <item key="sitearchlibdir" value="/opt/chef-workstation/embedded/lib/x86_64-linux" />
+          <item key="sitedir" value="/opt/chef-workstation/embedded/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0/site_ruby" />
+          <item key="sitelibdir" value="/opt/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" />
+          <item key="strict_warnflags" value="-std=gnu99" />
+          <item key="sysconfdir" value="/opt/chef-workstation/embedded/etc" />
+          <item key="target" value="x86_64-pc-linux-gnu" />
+          <item key="target_cpu" value="x86_64" />
+          <item key="target_os" value="linux" />
+          <item key="target_vendor" value="pc" />
+          <item key="topdir" value="/opt/chef-workstation/embedded/lib/ruby/3.1.0/x86_64-linux" />
+          <item key="vendorarchdir" value="/opt/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x86_64-linux" />
+          <item key="vendorarchhdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0/vendor_ruby/x86_64-linux" />
+          <item key="vendordir" value="/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="/opt/chef-workstation/embedded/include/ruby-3.1.0/vendor_ruby" />
+          <item key="vendorlibdir" value="/opt/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wdeprecated-declarations -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+        </RbConfig>
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bundler/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" />
+        <GEMS_ROOTS_URLS_ROOT GEMS_ROOTS_URL="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/bundler/gems" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bin" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/specifications" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/specifications" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bundler" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bundler" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/bin" remote-root="/root/.chef/gem/ruby/3.1.0/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" remote-root="/root/.chef/gem/ruby/3.1.0/gems" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/specifications" remote-root="/root/.chef/gem/ruby/3.1.0/specifications" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/bundler" remote-root="/root/.chef/gem/ruby/3.1.0/bundler" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/bin" remote-root="/opt/chef-workstation/embedded/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" remote-root="/opt/chef-workstation/embedded/lib/ruby/site_ruby" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" remote-root="/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" remote-root="/opt/chef-workstation/embedded/lib/ruby/3.1.0" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bin" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/gems" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/specifications" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/specifications" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bundler" remote-root="/opt/chef-workstation/embedded/lib/ruby/gems/3.1.0/bundler" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/bin" remote-root="/root/.chef/gem/ruby/3.1.0/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/gems" remote-root="/root/.chef/gem/ruby/3.1.0/gems" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/specifications" remote-root="/root/.chef/gem/ruby/3.1.0/specifications" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/root/.chef/gem/ruby/3.1.0/bundler" remote-root="/root/.chef/gem/ruby/3.1.0/bundler" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/bin" remote-root="/opt/chef-workstation/embedded/bin" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/site_ruby" remote-root="/opt/chef-workstation/embedded/lib/ruby/site_ruby" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" remote-root="/opt/chef-workstation/embedded/lib/ruby/vendor_ruby" />
+              <mapping local-root="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/ruby_stubs/-1232282202/opt/chef-workstation/embedded/lib/ruby/3.1.0" remote-root="/opt/chef-workstation/embedded/lib/ruby/3.1.0" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

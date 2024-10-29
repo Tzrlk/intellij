@@ -1,0 +1,9 @@
+<application>
+  <component name="WslHostStorage">
+    <option name="configIds">
+      <list>
+        <option value="Ubuntu-24.04" />
+      </list>
+    </option>
+  </component>
+</application>

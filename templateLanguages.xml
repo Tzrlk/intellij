@@ -1,0 +1,6 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.rb.tpl" lang="ruby" />
+    <pattern value="*.yml.tpl" lang="yaml" />
+  </component>
+</application>

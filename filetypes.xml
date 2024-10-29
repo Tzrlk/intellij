@@ -1,35 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+  <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="p12" type="Native" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern=".gitconfig.epp" type="PLAIN_TEXT" />
-      <mapping pattern=".cargo-lock" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="Puppetfile" type="PLAIN_TEXT" />
-      <mapping pattern="__SOURCE__" type="PLAIN_TEXT" />
-      <mapping ext="prefs" type="PLAIN_TEXT" />
-      <mapping ext="lojbo" type="PLAIN_TEXT" />
-      <mapping ext="pu" type="PLAIN_TEXT" />
-      <mapping ext="dot" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern="__gmsl" type="AUTO_DETECTED" />
+      <mapping pattern="*.rb.tpl" type="Go Template" />
+      <mapping pattern="*.yml.tpl" type="Go Template" />
+      <mapping ext="tpl" type="Go Template" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping ext="jadt" type="YAML" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
-      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
-      <mapping ext="abnf" type="Grammar" />
-      <mapping ext="df" type="Docker file" />
-      <mapping ext="nginx" type="nginx file type" />
-      <mapping ext="peg" type="ANTLR Grammar" />
-      <mapping pattern="nginx.conf" type="nginx file type" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

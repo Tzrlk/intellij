@@ -36,6 +36,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="org.junit.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -71,7 +76,17 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="org.mockito.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlinx.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
@@ -84,18 +99,5 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
-    <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
-          <nt-symbol-settings />
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
