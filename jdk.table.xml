@@ -691,5 +691,259 @@
         </PathMappingSettings>
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="chef-workstation" />
+      <type value="RUBY_SDK" />
+      <version value="ver.3.1.2p20 ( revision 4491bb740a) p20" />
+      <homePath value="C:/opscode/chef-workstation/embedded/bin/ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x64-ucrt" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0" type="simple" />
+            <root url="file://C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional PLATFORM="x64-mingw-ucrt" version="1" GEMS_BIN_DIR_PATH="C:\opscode\chef-workstation\embedded\bin">
+        <VERSION_MANAGER ID="system">
+          <custom-configurator>
+            <list />
+          </custom-configurator>
+        </VERSION_MANAGER>
+        <RbConfig>
+          <item key="AR" value="gcc-ar" />
+          <item key="ARCH_FLAG" value="-m64" />
+          <item key="ARFLAGS" value="rcD " />
+          <item key="AS" value="as" />
+          <item key="ASMEXT" value="S" />
+          <item key="BUILTIN_TRANSSRCS" value=" enc/trans/newline.c" />
+          <item key="CC" value="gcc" />
+          <item key="CC_VERSION" value="gcc --version" />
+          <item key="CC_VERSION_MESSAGE" value="gcc.exe (Rev1, Built by MSYS2 project) 11.3.0&#10;Copyright (C) 2021 Free Software Foundation, Inc.&#10;This is free software; see the source for copying conditions.  There is NO&#10;warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE." />
+          <item key="CFLAGS" value="-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -march=x86-64 -O3" />
+          <item key="CHDIR" value="cd" />
+          <item key="COMMON_HEADERS" value="winsock2.h windows.h" />
+          <item key="COMMON_LIBS" value="m" />
+          <item key="CONFIGURE" value="configure" />
+          <item key="COUTFLAG" value="-o " />
+          <item key="CP" value="cp" />
+          <item key="CPP" value="gcc -E" />
+          <item key="CPPFLAGS" value="-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -m64 -march=x86-64 -O3 -D_WIN32_WINNT=0x0602 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64 " />
+          <item key="CPPOUTFILE" value="-o conftest.i" />
+          <item key="CROSS_COMPILING" value="no" />
+          <item key="CXX" value="g++" />
+          <item key="CXXFLAGS" value="-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -march=x86-64 -O3" />
+          <item key="DEFS" value="-D_FILE_OFFSET_BITS=64" />
+          <item key="DESTDIR" value="C:" />
+          <item key="DLDFLAGS" value="-LC:/opscode/chef-workstation/embedded/lib -m64 -fno-lto -Wl,--enable-auto-image-base,--enable-auto-import" />
+          <item key="DLDSHARED" value="gcc -shared" />
+          <item key="DLEXT" value="so" />
+          <item key="DLLWRAP" value="dllwrap" />
+          <item key="DLNOBJ" value="dln.o" />
+          <item key="ECHO_N" value="-n" />
+          <item key="EGREP" value="/usr/bin/grep -E" />
+          <item key="ENABLE_SHARED" value="yes" />
+          <item key="EXECUTABLE_EXTS" value=".exe .com .cmd .bat" />
+          <item key="EXEEXT" value=".exe" />
+          <item key="EXPORT_PREFIX" value=" " />
+          <item key="EXTDLDFLAGS" value="$(DEFFILE)" />
+          <item key="EXTLDFLAGS" value="-static-libgcc" />
+          <item key="EXTOUT" value=".ext" />
+          <item key="GCC" value="yes" />
+          <item key="GIT" value="git" />
+          <item key="GNU_LD" value="yes" />
+          <item key="GREP" value="/usr/bin/grep" />
+          <item key="HAVE_GIT" value="yes" />
+          <item key="INSTALL" value="/usr/bin/install -c" />
+          <item key="INSTALL_DATA" value="/usr/bin/install -c -m 644" />
+          <item key="INSTALL_PROGRAM" value="/usr/bin/install -c" />
+          <item key="INSTALL_SCRIPT" value="/usr/bin/install -c" />
+          <item key="INSTALL_STATIC_LIBRARY" value="no" />
+          <item key="LD" value="ld" />
+          <item key="LDFLAGS" value="-L. -LC:/opscode/chef-workstation/embedded/lib -fno-lto -Wl,--no-as-needed" />
+          <item key="LDSHARED" value="gcc -shared" />
+          <item key="LDSHAREDXX" value="g++ -shared" />
+          <item key="LIBEXT" value="a" />
+          <item key="LIBPATHENV" value="PATH" />
+          <item key="LIBPATHFLAG" value=" -L%s" />
+          <item key="LIBRUBY" value="libx64-ucrt-ruby310.dll.a" />
+          <item key="LIBRUBYARG" value="-lx64-ucrt-ruby310" />
+          <item key="LIBRUBYARG_SHARED" value="-lx64-ucrt-ruby310" />
+          <item key="LIBRUBYARG_STATIC" value="-lx64-ucrt-ruby310-static -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="LIBRUBY_A" value="libx64-ucrt-ruby310-static.a" />
+          <item key="LIBRUBY_RELATIVE" value="yes" />
+          <item key="LIBRUBY_SO" value="x64-ucrt-ruby310.dll" />
+          <item key="LIBRUBY_SONAME" value="libx64-ucrt-ruby310.dll.3.1" />
+          <item key="LIBS" value="-lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="LN_S" value="cp -pR" />
+          <item key="MAINLIBS" value="-lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="MAJOR" value="3" />
+          <item key="MAKEDIRS" value="/usr/bin/mkdir -p" />
+          <item key="MAKEFILES" value="Makefile GNUmakefile" />
+          <item key="MANTYPE" value="doc" />
+          <item key="MINOR" value="1" />
+          <item key="MJIT_CC" value="C:/msys64/UCRT64/bin/gcc.exe" />
+          <item key="MJIT_SUPPORT" value="no" />
+          <item key="MKDIR_P" value="/usr/bin/mkdir -p" />
+          <item key="NM" value="gcc-nm" />
+          <item key="NULLCMD" value=":" />
+          <item key="OBJCOPY" value=":" />
+          <item key="OBJDUMP" value="objdump" />
+          <item key="OBJEXT" value="o" />
+          <item key="OUTFLAG" value="-o " />
+          <item key="PACKAGE" value="ruby" />
+          <item key="PATCHLEVEL" value="20" />
+          <item key="PATH_SEPARATOR" value=":" />
+          <item key="PKG_CONFIG" value="pkg-config" />
+          <item key="PLATFORM_DIR" value="win32" />
+          <item key="POSTLINK" value=":" />
+          <item key="PREP" value="miniruby.exe" />
+          <item key="RANLIB" value="gcc-ranlib" />
+          <item key="RI_BASE_NAME" value="ri" />
+          <item key="RM" value="rm -f" />
+          <item key="RMALL" value="rm -fr" />
+          <item key="RMDIR" value="rmdir --ignore-fail-on-non-empty" />
+          <item key="RMDIRS" value="rmdir --ignore-fail-on-non-empty -p" />
+          <item key="RUBYW_BASE_NAME" value="rubyw" />
+          <item key="RUBYW_INSTALL_NAME" value="rubyw" />
+          <item key="RUBY_API_VERSION" value="3.1" />
+          <item key="RUBY_BASE_NAME" value="ruby" />
+          <item key="RUBY_INSTALL_NAME" value="ruby" />
+          <item key="RUBY_LIB_VERSION_STYLE" value="3&#9;/* full */" />
+          <item key="RUBY_PROGRAM_VERSION" value="3.1.2" />
+          <item key="RUBY_SO_NAME" value="x64-ucrt-ruby310" />
+          <item key="RUBY_VERSION_NAME" value="ruby-3.1.0" />
+          <item key="SHELL" value="/bin/sh" />
+          <item key="SOEXT" value="dll" />
+          <item key="SOLIBS" value="-lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt " />
+          <item key="STRIP" value="strip -S -x" />
+          <item key="TEENY" value="2" />
+          <item key="TEST_RUNNABLE" value="yes" />
+          <item key="THREAD_MODEL" value="win32" />
+          <item key="UNICODE_EMOJI_VERSION" value="13.1" />
+          <item key="UNICODE_VERSION" value="13.0.0" />
+          <item key="WERRORFLAG" value="-Werror" />
+          <item key="WINDRES" value="windres" />
+          <item key="arch" value="x64-mingw-ucrt" />
+          <item key="archdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" />
+          <item key="archincludedir" value="C:/opscode/chef-workstation/embedded/include/x64-mingw-ucrt" />
+          <item key="archlibdir" value="C:/opscode/chef-workstation/embedded/lib/x64-mingw-ucrt" />
+          <item key="bindir" value="C:/opscode/chef-workstation/embedded/bin" />
+          <item key="build" value="x86_64-w64-mingw32" />
+          <item key="build_alias" value="x86_64-w64-mingw32" />
+          <item key="build_cpu" value="x86_64" />
+          <item key="build_os" value="mingw32" />
+          <item key="build_vendor" value="w64" />
+          <item key="cflags" value="-O3 -fno-omit-frame-pointer -fno-fast-math -g -Wall -Wextra -Wdeprecated-declarations -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+          <item key="configure_args" value=" '--build=x86_64-w64-mingw32' '--prefix=C:/opscode/chef-workstation/embedded' '--without-ext=dbm,readline' '--enable-shared' '--disable-install-doc' '--without-gmp' '--without-gdbm' '--without-tk' '--disable-dtrace' '--disable-jit-support' '--with-bundled-md5' 'debugflags=-g' '--with-winnt-ver=0x0602' 'build_alias=x86_64-w64-mingw32' 'CC=gcc' 'CFLAGS=-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -m64 -march=x86-64 -O3' 'LDFLAGS=-LC:/opscode/chef-workstation/embedded/lib -m64 -fno-lto' 'CPPFLAGS=-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -m64 -march=x86-64 -O3' 'CXXFLAGS=-IC:/opscode/chef-workstation/embedded/include -DFD_SETSIZE=2048 -m64 -march=x86-64 -O3'" />
+          <item key="datadir" value="C:/opscode/chef-workstation/embedded/share" />
+          <item key="datarootdir" value="C:/opscode/chef-workstation/embedded/share" />
+          <item key="debugflags" value="-g" />
+          <item key="docdir" value="C:/opscode/chef-workstation/embedded/share/doc/ruby" />
+          <item key="dvidir" value="C:/opscode/chef-workstation/embedded/share/doc/ruby" />
+          <item key="exec" value="exec" />
+          <item key="exec_prefix" value="C:/opscode/chef-workstation/embedded" />
+          <item key="host" value="x86_64-w64-mingw32" />
+          <item key="host_cpu" value="x64" />
+          <item key="host_os" value="mingw32" />
+          <item key="host_vendor" value="w64" />
+          <item key="htmldir" value="C:/opscode/chef-workstation/embedded/share/doc/ruby" />
+          <item key="includedir" value="C:/opscode/chef-workstation/embedded/include" />
+          <item key="infodir" value="C:/opscode/chef-workstation/embedded/share/info" />
+          <item key="libdir" value="C:/opscode/chef-workstation/embedded/lib" />
+          <item key="libdirname" value="libdir" />
+          <item key="libexecdir" value="C:/opscode/chef-workstation/embedded/libexec" />
+          <item key="localedir" value="C:/opscode/chef-workstation/embedded/share/locale" />
+          <item key="localstatedir" value="C:/opscode/chef-workstation/embedded/var" />
+          <item key="mandir" value="C:/opscode/chef-workstation/embedded/share/man" />
+          <item key="oldincludedir" value="/usr/include" />
+          <item key="optflags" value="-O3 -fno-omit-frame-pointer -fno-fast-math" />
+          <item key="pdfdir" value="C:/opscode/chef-workstation/embedded/share/doc/ruby" />
+          <item key="platform" value="x64-mingw-ucrt" />
+          <item key="prefix" value="C:/opscode/chef-workstation/embedded" />
+          <item key="psdir" value="C:/opscode/chef-workstation/embedded/share/doc/ruby" />
+          <item key="ridir" value="C:/opscode/chef-workstation/embedded/share/ri" />
+          <item key="ruby_install_name" value="ruby" />
+          <item key="ruby_pc" value="ruby-3.1.pc" />
+          <item key="ruby_version" value="3.1.0" />
+          <item key="rubyarchdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" />
+          <item key="rubyarchhdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0/x64-mingw-ucrt" />
+          <item key="rubyarchprefix" value="C:/opscode/chef-workstation/embedded/lib/ruby/x64-mingw-ucrt" />
+          <item key="rubyhdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0" />
+          <item key="rubylibdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0" />
+          <item key="rubylibprefix" value="C:/opscode/chef-workstation/embedded/lib/ruby" />
+          <item key="rubysitearchprefix" value="C:/opscode/chef-workstation/embedded/lib/ruby/x64-ucrt" />
+          <item key="rubyw_install_name" value="rubyw" />
+          <item key="runstatedir" value="C:/opscode/chef-workstation/embedded/var/run" />
+          <item key="sbindir" value="C:/opscode/chef-workstation/embedded/sbin" />
+          <item key="setup" value="Setup" />
+          <item key="sharedstatedir" value="C:/opscode/chef-workstation/embedded/com" />
+          <item key="sitearch" value="x64-ucrt" />
+          <item key="sitearchdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0/x64-ucrt" />
+          <item key="sitearchhdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0/site_ruby/x64-ucrt" />
+          <item key="sitearchincludedir" value="C:/opscode/chef-workstation/embedded/include/x64-ucrt" />
+          <item key="sitearchlibdir" value="C:/opscode/chef-workstation/embedded/lib/x64-ucrt" />
+          <item key="sitedir" value="C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby" />
+          <item key="sitehdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0/site_ruby" />
+          <item key="sitelibdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/site_ruby/3.1.0" />
+          <item key="strict_warnflags" value="-std=gnu99" />
+          <item key="target" value="x86_64-w64-mingw32" />
+          <item key="target_cpu" value="x64" />
+          <item key="target_os" value="mingw32" />
+          <item key="target_vendor" value="w64" />
+          <item key="topdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/3.1.0/x64-mingw-ucrt" />
+          <item key="vendorarchdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0/x64-ucrt" />
+          <item key="vendorarchhdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0/vendor_ruby/x64-ucrt" />
+          <item key="vendordir" value="C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby" />
+          <item key="vendorhdrdir" value="C:/opscode/chef-workstation/embedded/include/ruby-3.1.0/vendor_ruby" />
+          <item key="vendorlibdir" value="C:/opscode/chef-workstation/embedded/lib/ruby/vendor_ruby/3.1.0" />
+          <item key="warnflags" value="-Wall -Wextra -Wdeprecated-declarations -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef" />
+        </RbConfig>
+      </additional>
+    </jdk>
   </component>
 </application>
