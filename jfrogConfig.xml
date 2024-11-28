@@ -2,9 +2,9 @@
   <component name="GlobalSettings">
     <option name="serverConfig">
       <ServerConfigImpl>
-        <option name="url" value="" />
-        <option name="xrayUrl" value="" />
-        <option name="artifactoryUrl" value="" />
+        <option name="url" value="https://artifactory2.westpac.co.nz" />
+        <option name="xrayUrl" value="https://artifactory2.westpac.co.nz/xray" />
+        <option name="artifactoryUrl" value="https://artifactory2.westpac.co.nz/artifactory" />
         <policyType>VULNERABILITIES</policyType>
         <option name="project" value="" />
         <option name="watches" value="" />

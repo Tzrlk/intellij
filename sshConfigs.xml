@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="idmc-agents-test-0" id="e1013267-73b3-406e-907a-7fb22df7204e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ops" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

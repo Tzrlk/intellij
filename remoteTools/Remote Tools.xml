@@ -1,0 +1,9 @@
+<toolSet name="Remote Tools">
+  <tool name="chef-client" description="Execute a chef-client run on the remote machine" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="sudo" />
+      <option name="PARAMETERS" value="chef-client" />
+      <option name="WORKING_DIRECTORY" value="/" />
+    </exec>
+  </tool>
+</toolSet>
