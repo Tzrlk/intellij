@@ -6,6 +6,7 @@
       <mapping pattern="*.yml.tpl" type="Go Template" />
       <mapping ext="tpl" type="Go Template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping ext="tfstate" type="JSON" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
