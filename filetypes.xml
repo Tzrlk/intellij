@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="__gmsl" type="AUTO_DETECTED" />
-      <mapping pattern="*.rb.tpl" type="Go Template" />
       <mapping pattern="*.yml.tpl" type="Go Template" />
+      <mapping pattern="*.rb.tpl" type="Go Template" />
       <mapping ext="tpl" type="Go Template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tfstate" type="JSON" />
