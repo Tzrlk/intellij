@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
-      <mapping pattern="__gmsl" type="AUTO_DETECTED" />
       <mapping pattern="*.yml.tpl" type="Go Template" />
       <mapping pattern="*.rb.tpl" type="Go Template" />
       <mapping ext="tpl" type="Go Template" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping pattern="gmsl" type="Makefile" />
+      <mapping pattern="__gmsl" type="Makefile" />
+      <mapping pattern="gmsl-tests" type="Makefile" />
       <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -14,6 +16,9 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern="__gmsl" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="gmsl/__gmsl" approved="true" type="Makefile" />
+      <removed_mapping pattern="gmsl/gmsl" approved="true" type="Makefile" />
     </extensionMap>
   </component>
 </application>
