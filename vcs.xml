@@ -6,10 +6,16 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="GitHub.CommitStatus" />
       </list>
     </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.GitHub.CommitStatus.ColumnIdVisibility" value="false" />
+      </map>
+    </option>
+    <option name="COMPACT_REFERENCES_VIEW" value="false" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsEditorTab.Settings">
     <option name="openInNewWindow" value="true" />
