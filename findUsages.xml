@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Module 'chef-idmc-agents'" />
+    <option name="defaultScopeName" value="Module 'chef-idmc-agents'" />
+    <option name="SEARCH_SCOPE" value="Module 'chef-idmc-agents'" />
   </component>
 </application>
